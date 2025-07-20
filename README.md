@@ -1,5 +1,9 @@
 # 🔐 Steganography Tool (Python GUI)
 
+⚠️ Disclaimer
+This project is intended for educational purposes only. Do not use it for hiding illegal or unethical data.
+
+
 A cinematic-style steganography application built with Python and `CustomTkinter`, allowing users to securely **hide messages within images**, **encrypt/decrypt messages**, and **store image-password-key data** in a local SQLite database.
 
 ---
