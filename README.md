@@ -19,7 +19,8 @@ A cinematic-style steganography application built with Python and `CustomTkinter
 
 ## 🖼️ Interface Preview
 
-> *(Include a screenshot if possible here)*
+<img width="1132" height="790" alt="image" src="https://github.com/user-attachments/assets/ff4603fd-67d6-4dcd-801d-9d971059f887" />
+
 
 ---
 
